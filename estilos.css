@@ -2,13 +2,13 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-color: #fffdf7;
+    background-color: #ecacb1;
     color: #333;
 }
 
 /* Header */
 header {
-    background-color: #3a2721;
+    background-color: #bcc7f8;
     padding: 1rem 2rem;
     color: white;
     display: flex;
@@ -62,7 +62,7 @@ nav a:hover {
 }
 
 .btn {
-    background-color: #ffdd57;
+    background-color: #f30be72f;
     color: #333;
     padding: 0.8rem 1.5rem;
     text-decoration: none;
@@ -72,7 +72,7 @@ nav a:hover {
 }
 
 .btn:hover {
-    background-color: #ffb400;
+    background-color: #ec67ec;
 }
 
 /* Menu Section */
